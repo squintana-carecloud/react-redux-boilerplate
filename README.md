@@ -3,7 +3,7 @@
 This is a boilerplate for react-redux applications. It was created using [create-react-app](https://github.com/facebookincubator/create-react-app). 
 
 Packages included are: 
-+ [react-router](https://github.com/ReactTraining/react-router)
++ [react-router-dom](https://github.com/ReactTraining/react-router)
 + [redux-thunk](https://github.com/gaearon/redux-thunk) for simple async middleware
 + [redux-observables](https://github.com/redux-observable/redux-observable) for more complex async (canceling, debouncing, throttling)
 + [redux-logger](https://github.com/evgenyrodionov/redux-logger)
